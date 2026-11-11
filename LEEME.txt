@@ -1,0 +1,6 @@
+OBSERVATORIO ILALUX - Proyecto Android
+1. Sube el contenido de esta carpeta a un repositorio de GitHub (incluida .github/workflows/build.yml).
+2. Pestana Actions: se compila sola en unos minutos.
+3. Descarga el artefacto Ilalux-apk, descomprimelo e instala app-debug.apk.
+Los textos del boletin y del temario estan en:
+app/src/main/java/com/ilalux/observatorio/Contenido.java
